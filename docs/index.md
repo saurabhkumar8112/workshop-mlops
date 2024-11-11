@@ -31,4 +31,4 @@ This workshop guides you through building a complete ML pipeline using modern ML
 7. [Gradio Deployment](sections/7_gradio.html)
 8. [Complete Pipeline](sections/8_pipeline.html)
 
-[View on GitHub](https://github.com/yourusername/workshop-mlops)
+[View on GitHub](https://github.com/saurabhkumar8112/workshop-mlops)
