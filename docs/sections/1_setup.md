@@ -6,6 +6,7 @@ title: Environment Setup
 
 # Environment Setup
 
+{% raw %}
 ```bash
 # Create and enter project directory
 mkdir ml_workshop
@@ -27,3 +28,5 @@ poetry init
 # Author: [Your Name]
 # Python requires: ^3.12
 # No for interactive dependencies
+```
+{% endraw %}
