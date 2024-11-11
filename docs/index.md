@@ -1,6 +1,9 @@
 
 # MLOps Workshop: Building an End-to-End ML Pipeline
 
+
+## MLOps Workshop: Building an End-to-End ML Pipeline
+
 This workshop guides you through building a complete ML pipeline using modern MLOps tools.
 
 ## What You'll Learn
