@@ -1,0 +1,7 @@
+# docs/_config.yml
+remote_theme: pages-themes/cayman@v0.2.0
+plugins:
+  - jekyll-remote-theme
+title: MLOps Workshop
+description: End-to-End ML Pipeline with PyTorch, DVC, W&B, and Gradio
+show_downloads: true
