@@ -1,4 +1,4 @@
-# docs/index.md
+# MLOps Workshop IIT Delhi
 ---
 layout: default
 title: MLOps Workshop
