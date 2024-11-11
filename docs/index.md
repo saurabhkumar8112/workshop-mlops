@@ -1,8 +1,3 @@
-# MLOps Workshop IIT Delhi
----
-layout: default
-title: MLOps Workshop
----
 
 # MLOps Workshop: Building an End-to-End ML Pipeline
 
