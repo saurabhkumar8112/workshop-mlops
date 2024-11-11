@@ -25,7 +25,7 @@ poetry init
 # Package name: ml-workshop
 # Version: 0.1.0
 # Description: MLOps Workshop
-# Author: [Your Name]
+# Author: Saurabh Kumar
 # Python requires: ^3.12
 # No for interactive dependencies
 ```

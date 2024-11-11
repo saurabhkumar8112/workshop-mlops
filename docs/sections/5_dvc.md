@@ -1,3 +1,12 @@
+---
+layout: default
+title: DVC Setup
+---
+
+# DVC Setup
+
+{% raw %}
+```bash
 # Download MNIST dataset
 python download_mnist.py
 
@@ -30,3 +39,5 @@ dvc checkout
 # Complete removal and restore demo
 rm -rf data/
 dvc pull  # Restores current version
+```
+{% endraw %}

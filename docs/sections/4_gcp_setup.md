@@ -1,3 +1,12 @@
+---
+layout: default
+title: Google Cloud Setup
+---
+
+# Google Cloud Setup
+
+{% raw %}
+```bash
 # Install Google Cloud SDK (if needed)
 brew install google-cloud-sdk  # for macOS
 
@@ -16,3 +25,5 @@ git commit -m "Configure DVC with GCS"
 
 # Verify remote
 dvc remote list
+```
+{% endraw %}

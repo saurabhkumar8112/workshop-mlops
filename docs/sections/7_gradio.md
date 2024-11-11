@@ -1,3 +1,12 @@
+---
+layout: default
+title: Gradio Demo
+---
+
+# Gradio Demo
+
+{% raw %}
+```bash
 # Generate example images
 python create_examples.py
 
@@ -9,3 +18,5 @@ python demo.py
 # 2. Upload images
 # 3. Real-time predictions
 # 4. Confidence scores
+```
+{% endraw %}

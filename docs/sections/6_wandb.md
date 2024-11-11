@@ -1,3 +1,12 @@
+---
+layout: default
+title: Weights & Biases Setup
+---
+
+# Weights & Biases Setup
+
+{% raw %}
+```bash
 # Login to Weights & Biases
 wandb login
 
@@ -9,3 +18,5 @@ python train.py
 # 2. Model artifacts
 # 3. Experiment tracking
 # 4. Run comparison
+```
+{% endraw %}

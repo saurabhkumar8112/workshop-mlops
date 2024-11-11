@@ -1,3 +1,12 @@
+---
+layout: default
+title: Complete Pipeline
+---
+
+# Complete Pipeline
+
+{% raw %}
+```bash
 # Start fresh
 rm -rf data/ model.pth wandb/
 git checkout .
@@ -24,3 +33,5 @@ dvc push
 # Restore original data
 git checkout HEAD~1 data.dvc
 dvc checkout
+```
+{% endraw %}
