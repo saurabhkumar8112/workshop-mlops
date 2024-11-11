@@ -12,7 +12,6 @@ This workshop guides you through building a complete ML pipeline using modern ML
 - End-to-end ML pipeline automation
 
 ## Prerequisites
-- Python 3.12.0
 - Git
 - Google Cloud SDK
 - Code editor (VS Code recommended)
